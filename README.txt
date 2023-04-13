@@ -1,6 +1,6 @@
 === Auto Footer ===
 Version:      1.0
-Author:       Tariq
+Author:       Blurr
 Author URI:   https://blurr.info/
 License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
